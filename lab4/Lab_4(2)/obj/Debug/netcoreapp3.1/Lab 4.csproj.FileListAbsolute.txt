@@ -1,0 +1,32 @@
+D:\University\second_year\4 semester\VisualStudio.NET\lab4\Lab4\Lab 4\bin\Debug\netcoreapp3.1\Lab 4.exe
+D:\University\second_year\4 semester\VisualStudio.NET\lab4\Lab4\Lab 4\bin\Debug\netcoreapp3.1\Lab 4.deps.json
+D:\University\second_year\4 semester\VisualStudio.NET\lab4\Lab4\Lab 4\bin\Debug\netcoreapp3.1\Lab 4.runtimeconfig.json
+D:\University\second_year\4 semester\VisualStudio.NET\lab4\Lab4\Lab 4\bin\Debug\netcoreapp3.1\Lab 4.runtimeconfig.dev.json
+D:\University\second_year\4 semester\VisualStudio.NET\lab4\Lab4\Lab 4\bin\Debug\netcoreapp3.1\Lab 4.dll
+D:\University\second_year\4 semester\VisualStudio.NET\lab4\Lab4\Lab 4\bin\Debug\netcoreapp3.1\Lab 4.pdb
+D:\University\second_year\4 semester\VisualStudio.NET\lab4\Lab4\Lab 4\bin\Debug\netcoreapp3.1\CsvHelper.dll
+D:\University\second_year\4 semester\VisualStudio.NET\lab4\Lab4\Lab 4\obj\Debug\netcoreapp3.1\Lab 4.csproj.AssemblyReference.cache
+D:\University\second_year\4 semester\VisualStudio.NET\lab4\Lab4\Lab 4\obj\Debug\netcoreapp3.1\Lab 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\second_year\4 semester\VisualStudio.NET\lab4\Lab4\Lab 4\obj\Debug\netcoreapp3.1\Lab 4.AssemblyInfoInputs.cache
+D:\University\second_year\4 semester\VisualStudio.NET\lab4\Lab4\Lab 4\obj\Debug\netcoreapp3.1\Lab 4.AssemblyInfo.cs
+D:\University\second_year\4 semester\VisualStudio.NET\lab4\Lab4\Lab 4\obj\Debug\netcoreapp3.1\Lab 4.csproj.CoreCompileInputs.cache
+D:\University\second_year\4 semester\VisualStudio.NET\lab4\Lab4\Lab 4\obj\Debug\netcoreapp3.1\Lab 4.csproj.CopyComplete
+D:\University\second_year\4 semester\VisualStudio.NET\lab4\Lab4\Lab 4\obj\Debug\netcoreapp3.1\Lab 4.dll
+D:\University\second_year\4 semester\VisualStudio.NET\lab4\Lab4\Lab 4\obj\Debug\netcoreapp3.1\Lab 4.pdb
+D:\University\second_year\4 semester\VisualStudio.NET\lab4\Lab4\Lab 4\obj\Debug\netcoreapp3.1\Lab 4.genruntimeconfig.cache
+D:\University\second_year\4 semester\VisualStudio.NET\lab4\Lab4\Lab 4 z\bin\Debug\netcoreapp3.1\Lab 4.exe
+D:\University\second_year\4 semester\VisualStudio.NET\lab4\Lab4\Lab 4 z\bin\Debug\netcoreapp3.1\Lab 4.deps.json
+D:\University\second_year\4 semester\VisualStudio.NET\lab4\Lab4\Lab 4 z\bin\Debug\netcoreapp3.1\Lab 4.runtimeconfig.json
+D:\University\second_year\4 semester\VisualStudio.NET\lab4\Lab4\Lab 4 z\bin\Debug\netcoreapp3.1\Lab 4.runtimeconfig.dev.json
+D:\University\second_year\4 semester\VisualStudio.NET\lab4\Lab4\Lab 4 z\bin\Debug\netcoreapp3.1\Lab 4.dll
+D:\University\second_year\4 semester\VisualStudio.NET\lab4\Lab4\Lab 4 z\bin\Debug\netcoreapp3.1\Lab 4.pdb
+D:\University\second_year\4 semester\VisualStudio.NET\lab4\Lab4\Lab 4 z\bin\Debug\netcoreapp3.1\CsvHelper.dll
+D:\University\second_year\4 semester\VisualStudio.NET\lab4\Lab4\Lab 4 z\obj\Debug\netcoreapp3.1\Lab 4.csproj.AssemblyReference.cache
+D:\University\second_year\4 semester\VisualStudio.NET\lab4\Lab4\Lab 4 z\obj\Debug\netcoreapp3.1\Lab 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\second_year\4 semester\VisualStudio.NET\lab4\Lab4\Lab 4 z\obj\Debug\netcoreapp3.1\Lab 4.AssemblyInfoInputs.cache
+D:\University\second_year\4 semester\VisualStudio.NET\lab4\Lab4\Lab 4 z\obj\Debug\netcoreapp3.1\Lab 4.AssemblyInfo.cs
+D:\University\second_year\4 semester\VisualStudio.NET\lab4\Lab4\Lab 4 z\obj\Debug\netcoreapp3.1\Lab 4.csproj.CoreCompileInputs.cache
+D:\University\second_year\4 semester\VisualStudio.NET\lab4\Lab4\Lab 4 z\obj\Debug\netcoreapp3.1\Lab 4.csproj.CopyComplete
+D:\University\second_year\4 semester\VisualStudio.NET\lab4\Lab4\Lab 4 z\obj\Debug\netcoreapp3.1\Lab 4.dll
+D:\University\second_year\4 semester\VisualStudio.NET\lab4\Lab4\Lab 4 z\obj\Debug\netcoreapp3.1\Lab 4.pdb
+D:\University\second_year\4 semester\VisualStudio.NET\lab4\Lab4\Lab 4 z\obj\Debug\netcoreapp3.1\Lab 4.genruntimeconfig.cache
